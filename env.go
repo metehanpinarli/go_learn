@@ -6,7 +6,7 @@ import (
 )
 
 func main() {
-	for _, env := range os.Environ() {
+	for _, env := range os.Args {
 		fmt.Println(env)
 	}
 }
