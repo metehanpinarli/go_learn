@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<members>
+    <member type="admin">
+        <name>Ahmet</name>
+        <social>
+            <facebook>https://facebook.com</facebook>
+            <twitter>https://twitter.com</twitter>
+            <youtube>https://youtube.com</youtube>
+        </social>
+    </member>
+    <member type="reader">
+        <name>Mehmet</name>
+        <social>
+            <facebook>https://facebook.com</facebook>
+            <twitter>https://twitter.com</twitter>
+            <youtube>https://youtube.com</youtube>
+        </social>
+    </member>
+</members>
